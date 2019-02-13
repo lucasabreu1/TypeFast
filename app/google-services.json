@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "230013871981",
+    "firebase_url": "https://typefastauthentication.firebaseio.com",
+    "project_id": "typefastauthentication",
+    "storage_bucket": "typefastauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230013871981:android:dee3e4404945a506",
+        "android_client_info": {
+          "package_name": "com.example.lucas_abreu.mainactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230013871981-fjjsamsb3f35bi1mkfl41hov82vc9mke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lucas_abreu.mainactivity",
+            "certificate_hash": "4a54ae7cd87a2ee7183ac7dfe3c5c9927a435773"
+          }
+        },
+        {
+          "client_id": "230013871981-8uhhfrfsoc6q8mf18vd3irf65ngljs79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65_TD48CRLR3-ag2y03zCjNRywBYiSPE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230013871981-8uhhfrfsoc6q8mf18vd3irf65ngljs79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

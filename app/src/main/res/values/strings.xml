@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="brand_phrase">Type Fast !!</string>
+    <string name="button_send">Send</string>
+    <string name="game_edit_text_hint">Type a sentence above !</string>
+    <string name="sendButtonContent">Send</string>
+    <string name="game_over_info">Time is over!</string>
+    <string name="retry">Retry</string>
+</resources>
